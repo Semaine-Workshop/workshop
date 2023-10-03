@@ -1,0 +1,21 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "backend for the workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ibaraki-douji/api": "^2.1.10",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.8.2",
+    "typescript": "^5.2.2"
+  }
+}

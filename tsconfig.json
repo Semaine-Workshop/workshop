@@ -1,0 +1,19 @@
+
+{
+    "compilerOptions": {
+        "declaration": true,
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "noEmitHelpers": false,
+        "target": "ESNext",
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "experimentalDecorators": true,
+        "skipLibCheck": true,
+        "emitDecoratorMetadata": true,
+        "useDefineForClassFields": false
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
